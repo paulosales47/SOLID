@@ -67,6 +67,13 @@
     <Compile Include="Aula03\FretePadrao.cs" />
     <Compile Include="Aula03\IDesconto.cs" />
     <Compile Include="Aula03\IFrete.cs" />
+    <Compile Include="Aula04\Boleto.cs" />
+    <Compile Include="Aula04\Cartao.cs" />
+    <Compile Include="Aula04\Fatura.cs" />
+    <Compile Include="Aula04\FormaPagamento.cs" />
+    <Compile Include="Aula04\MeioPagamento.cs" />
+    <Compile Include="Aula04\Pagamento.cs" />
+    <Compile Include="Aula04\ProcessaPadrao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
