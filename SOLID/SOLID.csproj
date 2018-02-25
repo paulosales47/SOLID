@@ -52,6 +52,15 @@
     <Compile Include="Aula01\IDescontoSalario.cs" />
     <Compile Include="Aula01\QuinzeOuVinteCincoPorcento.cs" />
     <Compile Include="Aula01\Tester.cs" />
+    <Compile Include="Aula02\Fatura.cs" />
+    <Compile Include="Aula02\GeradoraNotaFiscal.cs" />
+    <Compile Include="Aula02\IAcaoNota.cs" />
+    <Compile Include="Aula02\IImposto.cs" />
+    <Compile Include="Aula02\ImpostoSimples.cs" />
+    <Compile Include="Aula02\NotaFiscal.cs" />
+    <Compile Include="Aula02\NotaFiscalDao.cs" />
+    <Compile Include="Aula02\NotaFiscalEmail.cs" />
+    <Compile Include="Aula02\NotaFiscalSap.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
