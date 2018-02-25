@@ -74,6 +74,10 @@
     <Compile Include="Aula04\MeioPagamento.cs" />
     <Compile Include="Aula04\Pagamento.cs" />
     <Compile Include="Aula04\ProcessaPadrao.cs" />
+    <Compile Include="Aula05\ContaComum.cs" />
+    <Compile Include="Aula05\ContaEstudante.cs" />
+    <Compile Include="Aula05\ManipuladorConta.cs" />
+    <Compile Include="Aula05\ProcessaConta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

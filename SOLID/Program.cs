@@ -25,19 +25,19 @@ namespace SOLID
 
             #region Aula 4
             
-            var processador = new ProcessaPadrao();
-            var listaFormaPagamento = new List<FormaPagamento>();
-            var fatura = new Fatura("Cliente A", 4250);
+            //var processador = new ProcessaPadrao();
+            //var listaFormaPagamento = new List<FormaPagamento>();
+            //var fatura = new Fatura("Cliente A", 4250);
 
-            for(int i = 0; i < 5; i++)
-            {
-                var random = new Random();
-                listaFormaPagamento.Add(new Boleto(random.Next(0, 100)));
-                listaFormaPagamento.Add(new Cartao(random.Next(0, 1000)));
-            }
+            //for(int i = 0; i < 5; i++)
+            //{
+            //    var random = new Random();
+            //    listaFormaPagamento.Add(new Boleto(random.Next(0, 100)));
+            //    listaFormaPagamento.Add(new Cartao(random.Next(0, 1000)));
+            //}
 
-            processador.Processa(listaFormaPagamento, fatura);
-            Console.WriteLine(fatura.Pago);
+            //processador.Processa(listaFormaPagamento, fatura);
+            //Console.WriteLine(fatura.Pago);
 
             #endregion Aula 4
 
