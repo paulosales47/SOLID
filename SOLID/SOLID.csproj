@@ -61,6 +61,12 @@
     <Compile Include="Aula02\NotaFiscalDao.cs" />
     <Compile Include="Aula02\NotaFiscalEmail.cs" />
     <Compile Include="Aula02\NotaFiscalSap.cs" />
+    <Compile Include="Aula03\CalculadorPreco.cs" />
+    <Compile Include="Aula03\Compra.cs" />
+    <Compile Include="Aula03\DescontoPadrao.cs" />
+    <Compile Include="Aula03\FretePadrao.cs" />
+    <Compile Include="Aula03\IDesconto.cs" />
+    <Compile Include="Aula03\IFrete.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
