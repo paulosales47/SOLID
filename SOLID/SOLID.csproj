@@ -43,15 +43,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Aula01\CalculadoraSalario.cs" />
-    <Compile Include="Aula01\Cargo.cs" />
-    <Compile Include="Aula01\Dba.cs" />
-    <Compile Include="Aula01\DescontoSalarioTemplate.cs" />
-    <Compile Include="Aula01\Desenvolvedor.cs" />
-    <Compile Include="Aula01\DezOuVintePorcento.cs" />
+    <Compile Include="Aula01\Funcionarios\Cargo.cs" />
+    <Compile Include="Aula01\Funcionarios\Dba.cs" />
+    <Compile Include="Aula01\Descontos\DescontoSalarioTemplate.cs" />
+    <Compile Include="Aula01\Funcionarios\Desenvolvedor.cs" />
+    <Compile Include="Aula01\Descontos\DezOuVintePorcento.cs" />
     <Compile Include="Aula01\Funcionario.cs" />
-    <Compile Include="Aula01\IDescontoSalario.cs" />
-    <Compile Include="Aula01\QuinzeOuVinteCincoPorcento.cs" />
-    <Compile Include="Aula01\Tester.cs" />
+    <Compile Include="Aula01\Descontos\IDescontoSalario.cs" />
+    <Compile Include="Aula01\Descontos\QuinzeOuVinteCincoPorcento.cs" />
+    <Compile Include="Aula01\Funcionarios\Tester.cs" />
     <Compile Include="Aula02\Fatura.cs" />
     <Compile Include="Aula02\GeradoraNotaFiscal.cs" />
     <Compile Include="Aula02\IAcaoNota.cs" />
