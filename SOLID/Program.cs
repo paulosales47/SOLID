@@ -1,4 +1,5 @@
-﻿using SOLID.Aula01;
+﻿
+using SOLID.Aula01;
 using SOLID.Aula04;
 using System;
 using System.Collections.Generic;
@@ -24,7 +25,7 @@ namespace SOLID
             #endregion Aula 1
 
             #region Aula 4
-            
+
             //var processador = new ProcessaPadrao();
             //var listaFormaPagamento = new List<FormaPagamento>();
             //var fatura = new Fatura("Cliente A", 4250);

@@ -27,9 +27,9 @@ namespace SOLID.Aula01
             get { return _salarioBase; }
         }
         
-        public double CalculaDescontoSalario()
+        public double CalculaSalario()
         {
-            return Cargo.Desconto.CalculaDesconto(this);
+            return _cargo.Desconto.CalculaDesconto(this);
         }
 
     }

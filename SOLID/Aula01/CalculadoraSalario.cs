@@ -10,7 +10,7 @@ namespace SOLID.Aula01
     {
         public double Calcula(Funcionario funcionario)
         {
-            return funcionario.CalculaDescontoSalario();
+            return funcionario.CalculaSalario();
         }
     }
 }
